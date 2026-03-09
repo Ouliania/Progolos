@@ -61,7 +61,7 @@ export const TeacherMatching = () => {
             
             <div className="space-y-6 text-lg text-zinc-400 leading-relaxed">
                 <p>
-                У нас больше 40 (50 для Хабаровска) педагогов. Все с профильным образованием (ДВИИ, Новосибирская консерватория, Гнесинка). Многие готовят участников к "Голосу", "Синей птице", работают с артистами театров.
+                У нас больше 40 педагогов. Все с профильным образованием (ДВИИ, Новосибирская консерватория, Гнесинка). Многие готовят участников к "Голосу", "Синей птице", работают с артистами театров.
                 </p>
                 <div className="flex items-start gap-4 p-6 bg-zinc-900/50 rounded-2xl border border-white/5 backdrop-blur-sm">
                     <div className="w-1 h-full min-h-[50px] bg-yellow-400 rounded-full" />
